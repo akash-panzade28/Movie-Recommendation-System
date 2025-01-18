@@ -1,2 +1,1 @@
-# Movie-Recommendation-System
-Movie Recommendation System
+# Recommender-System-with-PyTorch-using-Collaborative-Filtering
